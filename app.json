@@ -16,7 +16,7 @@
         "TZ": {
             "description": "时区",
             "required": false,
-            "value": "UTC"
+            "value": "Asia/Shanghai"
         }
     },
     "stack": "container"
